@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 -->
 ![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/KaranP666/KaranP666/assets/83541879/ec7a0c4a-3386-4c8a-b98b-810fc31b9fc7)
 
-<h1 align="center">Hi 👋, I'm Karan Panchal</h1>
-<h3 align="center">A passionate frontend and backend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Shreyas Varadkar</h1>
+<h3 align="center">A passionate Junior Data Scientist Intern from India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/freeze/max/680/1*IRGHmiGsa16stedQvIaZfw.gif">
 
 <p align="left"> <a href="https://twitter.com/__mr_varadkar__" target="blank"><img src="https://img.shields.io/twitter/follow/_karanpanchal__?logo=twitter&style=for-the-badge" alt="_karanpanchal__" /></a> </p>
