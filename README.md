@@ -42,4 +42,12 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=varadkar45&show_icons=true&locale=en" alt="varadkar45" /></p>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=varadkar45&" alt="varadkar45" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=varadkar45&" alt="varadkar45" class="center" /></p>
+<style>
+  .center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+</style>
