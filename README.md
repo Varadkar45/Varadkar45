@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate Junior Data Scientist Intern from India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/freeze/max/680/1*IRGHmiGsa16stedQvIaZfw.gif">
 
-<p align="left"> <a href="https://twitter.com/__mr_varadkar__" target="blank"><img src="https://img.shields.io/twitter/follow/__mr_varadkar__?logo=twitter&style=for-the-badge" alt="__mr_varadkar__" /></a> </p>
+<p align="left"> <a href="https://linkedin.com/shreyas-varadkar" target="blank"><img src="https://img.shields.io/twitter/follow/__mr_varadkar__?logo=linkedin&style=for-the-badge" alt="__mr_varadkar__" /></a> </p>
 
 - 🌱 I’m currently learning **YOLO**
 
