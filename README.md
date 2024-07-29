@@ -41,8 +41,8 @@ Here are some ideas to get you started:
 
 ---
 
-<p align="left">
- <p><img width="600 height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varadkar45&theme=radical&hide=glsl,python" alt="varadkar45" /></p>
+<p align="center">
+ <p><img width="500 height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varadkar45&theme=radical&hide=glsl,python" alt="varadkar45" /></p>
 </p>
 
 ---
