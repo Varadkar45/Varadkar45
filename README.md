@@ -41,8 +41,10 @@ Here are some ideas to get you started:
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varadkar45&theme=radical&hide=glsl,python" alt="varadkar45" /></p>
 
-<p>&nbsp;<img src=https://github-readme-stats.vercel.app/api?username=varadkar45&show_icons=true&theme=radical&line_height=27" alt="varadkar45" /></p>
 
+<p align="center">
+  <p><img width="1800" height="220" src="https://github-readme-stats.vercel.app/api?username=varadkar45&show_icons=true&theme=radical&line_height=27" alt="varadkar45" /></p>
+</p>
 
 
 ---
@@ -52,6 +54,3 @@ Here are some ideas to get you started:
 </p>
 
 ---
-<p align="center">
- <img width="1000" src="github-snake.svg" alt="snake"/>
-</p>
