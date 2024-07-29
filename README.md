@@ -44,3 +44,16 @@ Here are some ideas to get you started:
 <p>&nbsp;<img src=https://github-readme-stats.vercel.app/api?username=varadkar45&show_icons=true&theme=radical&line_height=27" alt="varadkar45" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=varadkar45&show_icons=true&theme=radical" alt="varadkar45" /></p>
+
+---
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=varadkar45&label=Profile%20views&color=0e75b6&style=flat" alt="varadkar45" /> </p>
+
+
+<p align="center">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=varadkar45&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+</p>
+
+---
+<p align="center">
+ <img width="1000" src="github-snake.svg" alt="snake"/>
+</p>
