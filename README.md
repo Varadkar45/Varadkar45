@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 ---
 
 <p align="center">
- <p><img width="400" height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varadkar45&theme=radical&line_height=27" alt="varadkar45" /></p>
+ <p><img width="800" height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varadkar45&theme=radical&line_height=27" alt="varadkar45" /></p>
 </p>
 
 ---
