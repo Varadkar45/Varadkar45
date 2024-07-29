@@ -41,8 +41,8 @@ Here are some ideas to get you started:
 
 
 <p align="left">
-  <p><img width="200" height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varadkar45&theme=radical&hide=glsl,python" alt="varadkar45" /></p>
-  <p><img width="1800" height="220" src="https://github-readme-stats.vercel.app/api?username=varadkar45&show_icons=true&theme=radical&line_height=27" alt="varadkar45" /></p>
+  <p><img width="400" height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varadkar45&theme=radical&hide=glsl,python" alt="varadkar45" /></p>
+  <p><img width="2800" height="220" src="https://github-readme-stats.vercel.app/api?username=varadkar45&show_icons=true&theme=radical&line_height=27" alt="varadkar45" /></p>
 </p>
 
 
