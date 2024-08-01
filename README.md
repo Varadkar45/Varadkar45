@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <img style="width: 40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=zalabhavy&show_icons=true&locale=en&layout=compact&theme=radical&line_height=27" alt="varadkar45" />
-  <img style="width: 444px; height:190px"; src="https://github-readme-stats.vercel.app/api?username=varadkar45&show_icons=true&theme=radical&line_height=27" alt="varadkar45" />
+  <img style="width: 444px; height:188px"; src="https://github-readme-stats.vercel.app/api?username=varadkar45&show_icons=true&theme=radical&line_height=27" alt="varadkar45" />
 </div>
 
 
