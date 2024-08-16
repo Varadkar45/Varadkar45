@@ -52,7 +52,8 @@ Here are some ideas to get you started:
   <p><img width="1800" height="220" src="https://github-readme-streak-stats.herokuapp.com/?user=varadkar45&show_icons=true&theme=radical" alt="varadkar45" /></p>
 </p>
 
---
+---
+
 <p align="center">
  <img width="1000" src="github-snake.svg" alt="snake"/>
 </p>
