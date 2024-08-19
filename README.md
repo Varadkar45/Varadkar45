@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 ---
 
 <p align="center">
-  <p><img width="1800" height="220" src="https://github-readme-streak-stats.herokuapp.com/?user=varadkar45&show_icons=true&theme=radical" alt="varadkar45" /></p>
+  <p><img width="1000" height="220" src="https://github-readme-streak-stats.herokuapp.com/?user=varadkar45&show_icons=true&theme=radical" alt="varadkar45" /></p>
 </p>
 
 ---
