@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Kafka**
 
-- 💬 Ask me about **Java, Python, Data Science, Machine Learning, SQL, Power BI**
+- 💬 Ask me about **Java, Python, Data Science, ML, SQL, Power BI**
 
 - 📫 How to reach me **s.varadkar2001@gmail.com**
 
