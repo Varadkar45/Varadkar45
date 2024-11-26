@@ -74,5 +74,5 @@ Here are some ideas to get you started:
  <img width="3000" src="github-snake.svg" alt="snakegame"/>
 </p>
 
----
+-----
 
