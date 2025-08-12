@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://linkedin.com/in/shreyas-varadkar" target="blank"><img src="https://img.shields.io/twitter/follow/__mr_varadkar__?logo=linkedin&style=for-the-badge" alt="__mr_varadkar__" /></a> </p>
 
-- 🌱 I’m currently learning **MCP & OpenCV**
+- 🌱 I’m currently learning **MCP & NestJS**
 
 - 💬 Ask me about **Java, Python, Data Science, ML, SQL, Power BI**
 
