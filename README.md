@@ -60,7 +60,7 @@ Here are some ideas to get you started:
   <img style="width: 430px; height:260px;" src="https://github-readme-stats.vercel.app/api?username=varadkar45&show_icons=true&theme=radical&line_height=27" alt="varadkar45" />
 </div>
 
------
+---
 
 <p align="center">
   <p><img width="1000" height="220" src="https://github-readme-streak-stats.herokuapp.com/?user=varadkar45&show_icons=true&theme=radical" alt="varadkar45" /></p>
